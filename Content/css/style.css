@@ -15,16 +15,6 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-    color: #d9dcd6;
-}
-
-.header h1 .seo {
-    color: #d9dcd6;
-}
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,6 +39,14 @@ a {
 
 p {
     font-size: 16px;
+}
+
+.horiseonimage {
+    display: inline;
+    padding: 0;
+    border: 0;
+    margin-top: 10px;
+    margin-bottom: 2px;
 }
 
 .hero {
